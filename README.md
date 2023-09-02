@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raazi Faisal</h1>
 <h3 align="center">I'm a tech enthusiast with an avid interest in development, machine learning and design. I love learning new stuff and am really passionate about emerging technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raazi-ak" alt="raazi-ak" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/petrifiedmach" target="blank"><img src="https://img.shields.io/twitter/follow/petrifiedmach?logo=twitter&style=for-the-badge" alt="petrifiedmach" /></a> </p>
 
 - 🔭 I’m currently working on [talescpaes](sorry;its a private repo)
