@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/petrifiedmach" target="blank"><img src="https://img.shields.io/twitter/follow/petrifiedmach?logo=twitter&style=for-the-badge" alt="petrifiedmach" /></a> </p>
 
-- 🔭 I’m currently working on [talescpaes](sorry;its a private repo)
+- 🔭 I’m currently working on [talescapes](sorry;its a private repo)
 
 - 🌱 I’m currently learning **Flutter and Google ML Crash Course**
 
