@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/petrifiedmach" target="blank"><img src="https://img.shields.io/twitter/follow/petrifiedmach?logo=twitter&style=for-the-badge" alt="petrifiedmach" /></a> </p>
 
-- 🔭 I’m currently working on [talescapes](sorry;its a private repo)
+- 🔭 I’m currently working on myself (yes, i'm a project that i have to finish)
 
-- 🌱 I’m currently learning **Flutter and Google ML Crash Course**
+- 🌱 I’m currently learning **Native Android Development using Jetpack Compose**
 
 - 💬 Ask me about **ui/ux desigining**
 
