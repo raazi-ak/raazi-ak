@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raazi.faisal@gmail.com**
 
-- ⚡ Fun fact **i like music**
+- ⚡ Fun fact **i like what?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
