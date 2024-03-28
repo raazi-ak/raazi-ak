@@ -1,7 +1,5 @@
 # 💫 About Me:
 indie app developer looking for projects and people to collaborate with.<br>
-
-### Tech Stack<br> 
 - Kotlin and Jetpack Compose<br>
 - Dart and Flutter 
 
