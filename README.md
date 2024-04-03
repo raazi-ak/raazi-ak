@@ -25,13 +25,6 @@ indie app developer looking for projects and people to collaborate with.<br>
 
 
 
-
-
-
-
-
-
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
